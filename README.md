@@ -1,11 +1,8 @@
 # efarrellPfDA2021submission
 
-## Requirements
-# numpy as np
-# matplotlib.pyplot
-# seaborn
+The purpose of this notebook is to explain the use of the numpy.random package, and how it can be used in random sampling of data and creation of distributions. 
 
-### 1. Explain the overall purpose of the package.
-### 2. Explain the use of the “Simple random data” and “Permutations” functions.
-### 3. Explain the use and purpose of at least five “Distributions” functions.
-### 4. Explain the use of seeds in generating pseudorandom numbers.
+Requirements to run the notebook are:
+* numpy as np
+* matplotlib.pyplot
+* seaborn
